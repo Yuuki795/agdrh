@@ -162,7 +162,7 @@
 .theme-dark .bg_d4b6c5 {
   margin-top: -10px;
   background: var(--fluent-acrylic-background);
-  background-size: auto;
+  background-size: cover;
   filter: saturate(var(--fluent-acrylic-background-saturate)) blur(var(--fluent-acrylic-background-blur));
 }
 .theme-dark .bg_d4b6c5::before {
