@@ -169,7 +169,7 @@
   content: "";
   width: 100%;
   height: 100%;
-  position: absolute;
+  position: fixed;
   background: linear-gradient(0deg, rgba(32, 32, 32, var(--fluent-acrylic-background-dimness)), rgba(32, 32, 32, var(--fluent-acrylic-background-dimness))), rgba(32, 32, 32, var(--fluent-acrylic-background-dimness));
   background-blend-mode: color, luminosity;
 }
